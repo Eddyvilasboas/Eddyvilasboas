@@ -38,7 +38,7 @@ Atualmente tenho estudando Javascript, HTML 5 e CSS para desenvolvimento web, so
 
   
   <div align="center"> 
-   <img height="180em" src='https://github.com/GilmarMMJr/GilmarMMJr/blob/output/github-contribution-grid-snake.svg'
+   <img height="180em" src='https://github.com/Eddyvilasboas/Eddyvilasboas/blob/output/github-contribution-grid-snake.svg'
 </div>   
 
 
