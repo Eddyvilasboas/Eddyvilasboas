@@ -1,9 +1,7 @@
 # Um pouco sobre mim!
 
-Me chamo Edgard Vilas Boas, sou estudante de Análise e desenvolvimento de sistemas pelo Centro Universitário Newton Paiva.
-Sempre fui um amante da tecnologia, durante minha adolescência realizei diversos trabalhos de suporte técnico de maneira autônoma que me fez ter um bom conhecimento de hardware e sistemas operacionais.
-Iniciei meus estudos 2022 em Análise e desenvolvimento de sistemas no Centro Universitário Newton Paiva para adquirir cada vez mais conhecimento, em janeiro de 2023 iniciei como estagiário na Rede Mater Dei de saúde onde aprendi  SQL e Sistema MV Soul/Pep, em Julho de 2023 fui contratado pela Rede Mater Dei de saúde como Analista de sistemas.
-Atualmente tenho estudando Javascript, HTML 5 e CSS para desenvolvimento web, sou exigente com meus deveres e me esforço sempre ao máximo para entregar aquilo que me proponho a desenvolver.
+Sou estudante de Ciência da Computação e atualmente trabalho como Analista de Desenvolvimento de Sistemas. Tenho um forte interesse em desenvolvimento full stack e estou sempre em busca de expandir meu conhecimento na área. 
+Meu objetivo é aprimorar minhas habilidades e me tornar um profissional completo e atualizado no setor de tecnologia.
 
 
 <p align="center">
@@ -16,12 +14,13 @@ Atualmente tenho estudando Javascript, HTML 5 e CSS para desenvolvimento web, so
 ## Minhas habilidades
 
 ![SQLSERVER](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+<img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png' width='74'/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Estudando neste momento:
-<img src='https://logospng.org/download/javascript/logo-javascript-icon-256.png' width='43'/>  <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' width='48'/> <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg' width='38'/>
+<img src='https://logospng.org/download/javascript/logo-javascript-icon-256.png' width='43'/>  <img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' width='48'/> <img src='https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg' width='38'/>         <img src='https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg' width='26'/>
 
 #### Meu Repositorio:
 <div alig="right">
